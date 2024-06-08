@@ -1,7 +1,9 @@
-## Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mptx1024&theme=tokyonight&&exclude_repo=Coursera-Python3-Specialization-pillow-tesseract-and-opencv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**mptx1024/mptx1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**eaasyIce/eaasyice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
